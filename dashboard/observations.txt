@@ -1,0 +1,67 @@
+[Sum of Average order value (aov)]
+In 2017 the average order value stayed very stable overall.
+September 2018 saw a massive unusual peak in order value in September month.
+October 2018 shows a sharp drop after the September 2018 peak.
+Data for 2016 is incomplete showing only late year numbers.
+Most months keep average values between 155 and 170.
+
+
+[Sum or revenue]
+Late 2016 recorded extremely low revenue compared to later years. Not enough information.
+Revenue throughout 2017 showed a massive, strong and consistent upward trend.
+The absolute highest revenue peak occurred during November of 2017.
+Early 2018 maintained the high revenues of peak 2017 then a massive sharp decline in August 2018.
+Total revenue per year below,2018 being the highest, followed by 2017.
+
+[Sum of active customers]
+Not enough information for 2016
+Customer numbers grew steadily throughout 2017 until a November peak and fell around 25%.
+Early 2018 maintained high customer counts near seven thousand users and then had a massive sharp drop of 99% at month of September 2018.
+
+[Customer lifetime value]
+95%+ customers order only once.
+Most single order customers generate under two hundred customer lifetime revenue.
+Over fifteen thousand customers are clustered in the lowest bins.
+Customer counts decrease extremely rapidly as lifetime revenue totals increase above 200.
+A very small minority of one time shoppers spend above five hundred.
+The data distribution demonstrates a heavily right skewed revenue pattern for one time customers.
+Most repeat buyers order twice rather than three total times.
+Two-time buyers spends peaks between one and three hundred.
+Total customer counts for three orders remain extremely low overall.
+Lifetime spending rarely exceeds six hundred for repeat customer groups.
+Similar to single orders, this revenue skews towards right.
+Customers spending more than 2 times are low (spending between 100 and 300 ) and above 3 times is non-existent in data.
+Customer repeat rate is only 3%
+
+[Categorical revenue]
+sao paulo is the place with the highest deliveries and cancellations followed by rio de janeiro. with a 0.8% cancellation rate.
+
+prodcut category information below:
+primary_category             |frequency|ranking |
+-----------------------------+---------+--------+
+cama_mesa_banho              |     9376|Top 5   |
+beleza_saude                 |     8826|Top 5   |
+esporte_lazer                |     7678|Top 5   |
+informatica_acessorios       |     6655|Top 5   |
+moveis_decoracao             |     6289|Top 5   |
+la_cuisine                   |       11|Bottom 5|
+pc_gamer                     |        7|Bottom 5|
+fashion_roupa_infanto_juvenil|        6|Bottom 5|
+seguros_e_servicos           |        2|Bottom 5|
+                             |        0|Bottom 5|
+
+[Cohorts]
+Late 2016 recorded extremely small customer cohort sizes overall. Very less information for 2016.
+Customer cohort sizes grew significantly throughout the 2017 year.
+The absolute largest cohort appeared during November of 2017.
+Cohort sizes steadily declined every month throughout early 2018.
+By late 2018 customer cohort sizes dropped near zero.
+Total retained customer numbers remain very low throughout the dataset.
+A vast majority of those customers never returned for repeat purchases.
+First period retention consistently shows the highest overall customer counts.
+Subsequent retention periods show significantly fewer customers returning to buy.
+Retention numbers show massive monthly spikes instead of steady growth.
+The year 2018 ends with a sharp drop in retention.
+Customer retention drops drastically immediately after the first initial purchase.
+Most subsequent periods show retention rates below one single percent.
+Overall long-term customer loyalty for this dataset is extremely poor.

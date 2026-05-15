@@ -1,0 +1,3 @@
+-- User "raw" schema for this
+-- Load data from ../data folder.
+-- Make sure the types are correct when importing.
