@@ -1,4 +1,4 @@
-# Olist E-Commerce Analytics — SQL + Power BI
+# Olist E-Commerce Analytics : SQL + Power BI
 
 End-to-end analytics case study on the Olist dataset, simulating how a real analytics team supports e-commerce decision-making: from raw data to structured models, KPIs, and executive dashboards.
 
@@ -15,8 +15,8 @@ A layered approach; raw transactional tables transformed into a centralized fact
 
 ### Entity-Relationship Diagram
 <div align="center">
-  <img src="docs/raw_schema_diagram.png" width="100%" />
-  <img src="docs\analytics_schema_diagram.png" width="100%" />
+  <img src="docs/raw_schema_diagram.png" width="50%" />
+  <img src="docs\analytics_schema_diagram.png" width="14%" />
 </div>
 
 ---
